@@ -1,0 +1,10 @@
+D:\Workspace\dotnetcore\asyncLegacy\bin\Debug\netcoreapp2.0\asyncLegacy.deps.json
+D:\Workspace\dotnetcore\asyncLegacy\bin\Debug\netcoreapp2.0\asyncLegacy.runtimeconfig.json
+D:\Workspace\dotnetcore\asyncLegacy\bin\Debug\netcoreapp2.0\asyncLegacy.runtimeconfig.dev.json
+D:\Workspace\dotnetcore\asyncLegacy\bin\Debug\netcoreapp2.0\asyncLegacy.dll
+D:\Workspace\dotnetcore\asyncLegacy\bin\Debug\netcoreapp2.0\asyncLegacy.pdb
+D:\Workspace\dotnetcore\asyncLegacy\obj\Debug\netcoreapp2.0\asyncLegacy.csproj.CoreCompileInputs.cache
+D:\Workspace\dotnetcore\asyncLegacy\obj\Debug\netcoreapp2.0\asyncLegacy.AssemblyInfoInputs.cache
+D:\Workspace\dotnetcore\asyncLegacy\obj\Debug\netcoreapp2.0\asyncLegacy.AssemblyInfo.cs
+D:\Workspace\dotnetcore\asyncLegacy\obj\Debug\netcoreapp2.0\asyncLegacy.dll
+D:\Workspace\dotnetcore\asyncLegacy\obj\Debug\netcoreapp2.0\asyncLegacy.pdb
